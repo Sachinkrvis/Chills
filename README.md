@@ -1,5 +1,5 @@
 # Chills
-Android base Music app
+Android based Music app
 
 Steps need to run the project:
 
